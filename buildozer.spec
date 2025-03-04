@@ -1,6 +1,6 @@
 [app]
-title = PetApp
-package.name = petapp
+title = SovenAi
+package.name = sovenai
 package.domain = org.example
 source.dir = .
 source.include_exts = py,tflite
